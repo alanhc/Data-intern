@@ -1,0 +1,41 @@
+.
+├── Report.pdf
+├── answer.csv
+├── data
+├── evaluate.py
+├── file_tree.txt
+├── output
+│   ├── answer.csv
+│   ├── evaluate_clean_data.csv
+│   ├── img
+│   │   ├── after_sampling_data.png
+│   │   ├── origin_data.png
+│   │   └── result_matrix.png
+│   ├── record
+│   │   ├── SVC.joblib.txt
+│   │   └── best.joblib.txt
+│   ├── test_clean_data.csv
+│   └── train_clean_data.csv
+├── requirements.txt
+├── save_models
+│   ├── DecisionTreeClassifier.joblib
+│   ├── GaussianNB.joblib
+│   ├── KNeighborsClassifier.joblib
+│   ├── SVC.joblib
+│   └── best.joblib
+├── test.ipynb
+├── test.py
+├── test_clean\ data.csv
+├── train.py
+├── train_clean\ data.csv
+└── utils
+    ├── SQL.py
+    ├── __pycache__
+    │   ├── SQL.cpython-37.pyc
+    │   ├── method.cpython-37.pyc
+    │   └── pylib.cpython-37.pyc
+    ├── handle_data.py
+    ├── method.py
+    └── pylib.py
+
+7 directories, 31 files
